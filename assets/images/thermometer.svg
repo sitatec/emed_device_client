@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.565" height="34.962" viewBox="0 0 18.565 34.962">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="2.974" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5edbe5"/>
+      <stop offset="1" stop-color="#2f6e73"/>
+    </linearGradient>
+  </defs>
+  <g id="thermometer-line" transform="translate(-10.008 -2)">
+    <path id="Tracé_60" data-name="Tracé 60" d="M19.37,24.254V11.46H17.185V24.287a3.278,3.278,0,1,0,2.185,0Z" transform="translate(0.462 0.876)" fill="url(#linear-gradient)"/>
+    <path id="Tracé_61" data-name="Tracé 61" d="M27.48,16.2a1.093,1.093,0,0,0,0-2.185H25.208V11.833H27.48a1.093,1.093,0,0,0,0-2.185H25.208V8.555a6.555,6.555,0,0,0-13.111,0v14a8.74,8.74,0,1,0,13.111-.219V20.573H27.48a1.093,1.093,0,0,0,0-2.185H25.208V16.2ZM25.3,28.221a6.555,6.555,0,1,1-11.319-4.5l.295-.317V8.555a4.37,4.37,0,1,1,8.74,0V23.239l.328.317A6.555,6.555,0,0,1,25.3,28.221Z" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
