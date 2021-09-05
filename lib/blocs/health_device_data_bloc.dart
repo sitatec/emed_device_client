@@ -102,7 +102,7 @@ class HealthDeviceDataBloc {
   }
 
   void _handleHeartRateAndSpo2Data(String data) {
-    final cleanedData = data.substring(2, data.length - 1);
+    final cleanedData = data.substring(1, data.length - 1);
     final temp = cleanedData.split("_");
     final heartRateValue = double.tryParse(temp.first);
     final spo2Value = int.tryParse(temp.last);

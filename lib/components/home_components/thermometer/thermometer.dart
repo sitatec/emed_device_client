@@ -56,7 +56,7 @@ class _ThermometerMonitorState extends State<ThermometerMonitor> {
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
-            Text("$value$symbol",
+            Text("${value.toStringAsFixed(2)}$symbol",
                 style: TextStyle(fontSize: 44, color: Colors.white))
           ],
         ),
